@@ -1,5 +1,4 @@
-# Oh Hi! 
-
+# Oh Hi! 🪶
 I'm Sanjaya, a Computer Science student based in Toronto. I am passionate about software development and technology, especially related to video games.
 
 ## 🔧 Technologies & Tools
