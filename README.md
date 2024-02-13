@@ -18,7 +18,7 @@ Here are a few projects I'm proud of:
 
 ## 🌱 Currently Learning
 
-I'm currently diving deeper into Web Development and Game Development, exploring ways to create a full game using Unreal Engine.
+I'm currently diving deeper into Web Development and Game Development, exploring ways to create games using Unreal Engine.
 
 <!--
 ## 💬 Let's Connect
