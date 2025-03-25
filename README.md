@@ -2,11 +2,11 @@
 I'm Sanjaya, a Computer Science student based in Toronto. I am passionate about software development and technology, especially related to video games.
 
 ## 🔧 Technologies & Tools
-- **Programming Languages:** C, C++, Python, Java, JavaScript
+- **Programming Languages:** C, C++, C#, Python, Java, JavaScript
 - **Web Development:** HTML, CSS, Node.js
 - **Databases:** Oracle SQL Developer
 - **Version Control:** Git
-- **Other Tools:** Unreal Engine
+- **Other Tools:** Unity, Unreal Engine
 
 <!--
 ## 🚀 Projects
@@ -18,7 +18,7 @@ Here are a few projects I'm proud of:
 
 ## 🌱 Currently Learning
 
-I'm currently diving deeper into Web Development and Game Development, exploring ways to create games using Unreal Engine.
+I'm currently diving deeper into Web Development and Game Development.
 
 <!--
 ## 💬 Let's Connect
